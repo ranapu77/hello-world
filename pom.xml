@@ -23,9 +23,9 @@
 
   <distributionManagement>
     <site>
-      <id>site-server</id>
-      <name>Test Project Site</name>
-      <url>file:///tmp/maven-project-site</url>
+      <id>deployment</id>
+      <name>Snapshot releases</name>
+      <url>http://34.69.188.141:8081/repository/maven-snapshots/</url>
     </site>
   </distributionManagement>
 
